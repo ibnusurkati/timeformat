@@ -1,0 +1,2 @@
+# timeformat
+time format golang
