@@ -2,7 +2,7 @@
 
 [![GoDoc](https://godoc.org/github.com/ibnusurkati/timeformat?status.svg)](https://pkg.go.dev/github.com/ibnusurkati/timeformat?tab=doc)
 [![License](https://img.shields.io/github/license/ibnusurkati/timeformat?style=plastic)](https://github.com/ibnusurkati/timeformat/blob/master/LICENSE)
-[![Release](https://img.shields.io/github/release/ibnusurkati/timeformat.svg?style=flat-square)](https://github.com/ibnusurkati/timeformat/releases)
+[![Release](https://img.shields.io/github/v/release/ibnusurkati/timeformat.svg?style=flat-square)](https://github.com/ibnusurkati/timeformat/releases)
 a simple plugin to change date and time format
 
 ## Features
